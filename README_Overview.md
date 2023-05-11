@@ -4,18 +4,19 @@
 
 ## Team Members
 
-Amir El Hilon
-Chris Bramley
-Daniel Molnar
-Minh Anh Le
+- Amir El Hilon
+- Chris Bramley
+- Daniel Molnar
+- Minh Anh Le
 
 ## Scope Statement
 
 The aim of our project is to create a financial application that will provide users with accurate and reliable forecasts for various cryptocurrencies, as well as other markets. We’ll examine relationships between:
-Crypto (BTC, ETH, DOGE) - Amir
-Stocks (AAPL, MSFT, AMD) - Minh Anh
-Commodities (XAG, XAU, HG) - Chris
-Forex (EUR, GBP, JPY) - Daniel
+
+- Crypto (BTC, ETH, DOGE) - Amir
+- Stocks (AAPL, MSFT, AMD) - Minh Anh
+- Commodities (XAG, XAU, HG) - Chris
+- Forex (EUR, GBP, JPY) - Daniel
 
 ## Data Fetching/API Integration
 
