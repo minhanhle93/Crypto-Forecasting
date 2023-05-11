@@ -18,9 +18,9 @@ The aim of our project is to create a financial application that will provide us
 - Commodities (XAG, XAU, HG) - Chris
 - Forex (EUR, GBP, JPY) - Daniel
 
-## Data Fetching/API Integration
+## Data Fetching/Sources
 
-The app will fetch data from various sources, such as Alpaca, Alpha Advantage, Kaggle, Yahoo Finance, to provide users with up-to-date and relevant information about the financial markets. API integration will be used to retrieve this data and make it available for analysis.
+The app will fetch data from various sources, such as Alpaca, Nasdaq, API Layer, Yahoo Finance, to provide users with up-to-date and relevant information about the financial markets. API integration will be used to retrieve this data and make it available for analysis.
 
 ## Data Analysis
 
