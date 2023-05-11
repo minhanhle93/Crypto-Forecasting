@@ -33,9 +33,9 @@ The app will undergo thorough testing to ensure its functionality, usability, an
 ## Documentation
 
 The code in Notebook is commented with relevant notes. There are 3 README files in this project which covers:
-Project overview
-Detailed usage and installation instructions
-Results analysis
+- Project overview
+- Detailed usage and installation instructions
+- Results analysis
 
 ## Presentation
 
